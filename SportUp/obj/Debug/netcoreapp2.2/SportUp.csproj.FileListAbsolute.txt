@@ -1,0 +1,3 @@
+C:\Users\Domenica\Documents\dotnet\SportUp\SportUp\obj\Debug\netcoreapp2.2\SportUp.csproj.CoreCompileInputs.cache
+C:\Users\Domenica\Documents\dotnet\SportUp\SportUp\obj\Debug\netcoreapp2.2\SportUp.AssemblyInfoInputs.cache
+C:\Users\Domenica\Documents\dotnet\SportUp\SportUp\obj\Debug\netcoreapp2.2\SportUp.AssemblyInfo.cs
